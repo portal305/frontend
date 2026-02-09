@@ -3,7 +3,7 @@
 ![App Icon](icon.png)
 
 
-[![Discord](https://img.shields.io/badge/discord-alfred-5865F2?logo=discord&logoColor=white)](https://discord.gg/8CCNRpj2kg)
+[![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/8CCNRpj2kg)
 
 **Ember** is a modern, feature-rich frontend emulator designed to provide an elegant and seamless retro gaming experience. Built with Flutter, it serves as a sophisticated launcher and library manager for your retro game collection, offering a visually stunning interface and powerful organization tools.
 
