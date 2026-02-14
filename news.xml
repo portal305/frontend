@@ -6,32 +6,39 @@
     <link>https://github.com/portal305/frontend</link>
     <language>en</language>
     <item>
-      <title>Welcome to Ember Frontend v0.0.1</title>
+      <title>Update Ember Frontend v0.1.1</title>
+      <description>New version up on github! Initial support for gamepads</description>
+      <pubDate>Sat, 14 Feb 2026 16:20:00 +0000</pubDate>
+      <category>Release</category>
+      <guid>frontend-news-5</guid>
+    </item>
+    <item>
+      <title>Welcome to Ember Frontend v0.1.0</title>
       <description>We are excited to launch the first version of our new game launcher! Enjoy a seamless experience with RetroAchievements integration and automatic metadata fetching.</description>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <category>Release</category>
-      <guid>frontend-news-1</guid>
+      <guid>frontend-news-4</guid>
     </item>
     <item>
       <title>Automatic Platform Updates</title>
       <description>Your console configurations are now kept up-to-date automatically from our GitHub repository. No more manual JSON editing!</description>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
       <category>Feature</category>
-      <guid>frontend-news-2</guid>
+      <guid>frontend-news-3</guid>
     </item>
     <item>
       <title>New Synchronization Feedback</title>
       <description>Track all background tasks directly from the top bar. You can now see the exact progress of your library scans and metadata updates.</description>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       <category>Improvement</category>
-      <guid>frontend-news-3</guid>
+      <guid>frontend-news-2</guid>
     </item>
     <item>
       <title>Sleep Mode Added</title>
       <description>Quickly close the application using the new Power icon in the bottom dock.</description>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <category>Feature</category>
-      <guid>frontend-news-4</guid>
+      <guid>frontend-news-1</guid>
     </item>
   </channel>
 </rss>
